@@ -1,6 +1,6 @@
 cask "desktop-calendar" do
-  version "1.0.1"
-  sha256 "e7e4605a4d7400b8554ec18541609f6af813f7ca1ffaae3be6a40a4fa6f93f4d"
+  version "1.0.2"
+  sha256 "c24e68beb45ff7f8125c8aa814ad69100c92ed8ec3e9c7cd9f3e6ffaadbee904"
 
   url "https://github.com/hrk-m/desktop-calendar/releases/download/v#{version}/Desktop.Calendar-#{version}-arm64.dmg"
   name "Desktop Calendar"
